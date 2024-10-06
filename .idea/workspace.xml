@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1fd48d90-096c-4e57-9600-48d29fb00fd5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/carbon/EDACarbonReduccion.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/padronelectoral/padronelectoral.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="1fd48d90-096c-4e57-9600-48d29fb00fd5" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -78,7 +73,7 @@
       <workItem from="1728248530517" duration="2799000" />
       <workItem from="1728251719345" duration="730000" />
       <workItem from="1728252478398" duration="565000" />
-      <workItem from="1728254096461" duration="1244000" />
+      <workItem from="1728254096461" duration="1485000" />
     </task>
     <servers />
   </component>
@@ -92,11 +87,6 @@
           <url>notebook:///Users/grojas/Documents/ProjectsPycharm/Projects/AutomatedEDA/padronelectoral.ipynb</url>
           <line>8</line>
           <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
-          <url>notebook:///Users/grojas/Documents/ProjectsPycharm/Projects/AutomatedEDA/padronelectoral/padronelectoral.ipynb</url>
-          <line>11</line>
-          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
