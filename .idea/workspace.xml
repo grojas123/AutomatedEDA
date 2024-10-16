@@ -5,13 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1fd48d90-096c-4e57-9600-48d29fb00fd5" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/._carbon" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/._padronelectoral" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/carbon/CR_2023_daily.html" beforeDir="false" afterPath="$PROJECT_DIR$/carbon/CR_2023_daily.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/carbon/CR_2023_hourly.html" beforeDir="false" afterPath="$PROJECT_DIR$/carbon/CR_2023_hourly.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/carbon/EDACarbonReduccion.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/carbon/EDACarbonReduccion.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/llm_api/web_results.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/llm_api/web_results.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,6 +21,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="DEPENDENCY_CHECKER_PROBLEMS_TAB" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
@@ -95,6 +92,9 @@
       <workItem from="1729014108692" duration="98000" />
       <workItem from="1729015127966" duration="6885000" />
       <workItem from="1729036551284" duration="818000" />
+      <workItem from="1729037511482" duration="74000" />
+      <workItem from="1729089304769" duration="624000" />
+      <workItem from="1729090298246" duration="1576000" />
     </task>
     <servers />
   </component>
