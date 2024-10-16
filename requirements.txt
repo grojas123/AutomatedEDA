@@ -1,0 +1,8 @@
+jupyter
+pandas
+ydata_profiling
+openai
+python-dotenv
+requests
+langchain
+python-dotenv
