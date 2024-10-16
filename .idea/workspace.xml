@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1fd48d90-096c-4e57-9600-48d29fb00fd5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/padronelectoral/padronelectoralMac.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/llm_api/web_results.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/llm_api/web_results.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/carbon/EDACarbonReduccion.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/carbon/EDACarbonReduccion.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/padronelectoral/padron_electoral.html" beforeDir="false" afterPath="$PROJECT_DIR$/padronelectoral/padron_electoral.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/padronelectoral/padron_electoral_with_datatypes.html" beforeDir="false" afterPath="$PROJECT_DIR$/padronelectoral/padron_electoral_with_datatypes.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/padronelectoral/padronelectoralMac.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/padronelectoral/padronelectoralMac.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,6 +54,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/padronelectoral" />
       <recent name="$PROJECT_DIR$/carbon" />
       <recent name="$PROJECT_DIR$/data" />
     </key>
@@ -98,7 +101,7 @@
       <workItem from="1729089304769" duration="624000" />
       <workItem from="1729090298246" duration="1576000" />
       <workItem from="1729114150505" duration="55000" />
-      <workItem from="1729114214506" duration="334000" />
+      <workItem from="1729114214506" duration="1465000" />
     </task>
     <servers />
   </component>
@@ -112,6 +115,11 @@
           <url>notebook:///Users/grojas/Documents/ProjectsPycharm/Projects/AutomatedEDA/padronelectoral.ipynb</url>
           <line>8</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
+          <url>notebook:///Users/grojas/Documents/ProjectsPycharm/Projects/AutomatedEDA/padronelectoral/padronelectoralMac.ipynb</url>
+          <line>7</line>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
